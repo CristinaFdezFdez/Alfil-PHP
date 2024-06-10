@@ -10,9 +10,8 @@ Este proyecto consiste en una página web interactiva que muestra el movimiento 
 
 ## Capturas 
 
-**Interfaz**
 
-![Ajedrez](img/ajedrez.jpg)
+![ajedrez](https://github.com/CristinaFdezFdez/Alfil-PHP/assets/155740893/fcc90355-da3f-407c-8765-f17555321350)
 
 
 
