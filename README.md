@@ -10,7 +10,7 @@ Este proyecto consiste en una página web interactiva que muestra el movimiento 
 
 ## Capturas 
 
-![ajedrez](https://github.com/CristinaFdezFdez/Alfil-PHP/assets/155740893/f867aef2-f4fd-407b-a146-53db1fabfc9b)
+![ajedrez](https://github.com/CristinaFdezFdez/Alfil-PHP/assets/155740893/a0992ec5-56ac-4645-8d46-48a7f20d9f7d)
 
 
 
